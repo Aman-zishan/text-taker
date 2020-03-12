@@ -38,4 +38,4 @@
    ```
    ## DEMO
    <p align="center">
-   <img src="demo/test.jpeg" />     <img height="100%" width="100%" src="demo/rsz_demo.png" />
+   <img src="demo/test.jpeg" />     <img height="70%" width="70%" src="demo/rsz_demo.png" />
