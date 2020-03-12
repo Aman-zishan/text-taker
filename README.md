@@ -14,7 +14,7 @@
    $git clone https://github.com/Aman-zishan/text-taker.git
 
    ```
-2. **:checkered_flag: navigate to the cloned repo foler.**
+2. **:checkered_flag: navigate to the cloned repo folder.**
 
    ```shell
    $cd text-taker
