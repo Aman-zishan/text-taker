@@ -7,7 +7,7 @@
 <li>Visual Code Studio</li>
 ## installation
 ### clone the github repo to your system
-```
+```shell
 $git clone https://github.com/Aman-zishan/text-taker.git
 ```
 
